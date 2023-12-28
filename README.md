@@ -7,7 +7,7 @@ Created on Dec 28, 2023
 Bike Share Service Analysis
 
 ### Description
-This project provides insights of actions and patterns of customers utilizing a bike share service.
+This project provides insights of actions and patterns of customers utilizing a bike share service using statistical calculations
 
 ### Files used
 - bikeshare_2.y (_main_)
