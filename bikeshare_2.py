@@ -13,6 +13,8 @@ def get_filters():
     day = '' 
     city = ''
 
+    # Changes from refactoring branch 
+    
 
     """
     Asks user to specify a city, month, and day to analyze.
